@@ -7,4 +7,4 @@ Příklad ke stažení obsahuje webovou stránku, do které se pomocí Javascrip
 1. K Patovi přidej ještě i Mata. Vykresli je pěkně ve dvojicích desetkrát pod sebou.
 2. Dále modifikuj zadání tím, že v těchto dvojicích se figurky budou vzájemně prohazovat. V lichých řádcích budou vykreslení v pořadí vlevo Pat a vpravo Mat. V sudých řádcích tomu bude naopak - vlevo Mat a vpravo Pat.
 
-3. Nezapomeň doprogramovat funkcionalitu zobrazení počtu figurek Pata a Mata.
+Nezapomeň doprogramovat funkcionalitu zobrazení počtu figurek Pata a Mata.
