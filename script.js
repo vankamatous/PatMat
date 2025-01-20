@@ -1,5 +1,7 @@
 // odkazy na HTML objekty
 let figurky = document.getElementById("figurky");
+let pocetPat = document.getElementById("pocetPat");
+let pocetMat = document.getElementById("pocetMat");
 
 // kód vykreslení obrázků
 let pat = "<img src='img/pat.png'>";
